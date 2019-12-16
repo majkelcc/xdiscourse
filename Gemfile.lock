@@ -96,7 +96,7 @@ GEM
     ember-source (1.12.2)
     erubis (2.7.0)
     eventmachine (1.2.0.1)
-    excon (0.53.0)
+    excon (0.71.0)
     execjs (2.7.0)
     exifr (1.2.4)
     fabrication (2.9.8)
